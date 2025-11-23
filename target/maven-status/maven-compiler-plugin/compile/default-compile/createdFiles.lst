@@ -1,0 +1,11 @@
+com\example\sumativa1seguridad\Model\Recipe.class
+com\example\sumativa1seguridad\Servicio\RecipeService.class
+com\example\sumativa1seguridad\Security\WebSecurityConfig.class
+com\example\sumativa1seguridad\Repository\UserRepository.class
+com\example\sumativa1seguridad\Servicio\MyUserDetailsService.class
+com\example\sumativa1seguridad\Sumativa1seguridadApplication.class
+com\example\sumativa1seguridad\Entity\User.class
+com\example\sumativa1seguridad\Security\JWTAuthtenticationConfig.class
+com\example\sumativa1seguridad\Controller\PublicController.class
+com\example\sumativa1seguridad\Controller\LoginController.class
+com\example\sumativa1seguridad\Model\Constants.class
